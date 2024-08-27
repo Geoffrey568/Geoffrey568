@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me geoffreyian568@gmail.com
-- 😄 Pronouns: he s him
+- 😄 Pronouns: he is him
 - ⚡ Fun fact: techiee enthusiast
 
 <!---
